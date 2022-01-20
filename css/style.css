@@ -1,0 +1,19 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700;900&display=swap');
+/* 
+font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
+
+/* Common style */
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+
+/* Banner design */
+.banner-text{
+    
+}
+.banner-text h1{
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 50px;
+}
